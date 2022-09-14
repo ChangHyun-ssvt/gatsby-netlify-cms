@@ -5,7 +5,7 @@ description: dsasa
 ---
 \#﻿##  이미지
 
-![sample](10101139-샘플-우표.webp "sample")
+![sample](sample.webp "sample")
 
 \#﻿## 테스트
 
